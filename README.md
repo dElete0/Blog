@@ -11,7 +11,7 @@
 
 《java多线性核心技术》
 
-《Effective Java》（00/277）
+《Effective Java》
 
 已拥有下技术：
 
